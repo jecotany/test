@@ -6,7 +6,7 @@ require 'memcache'
 require 'pp'
 
 
-#require 'grit'
+#require 'grit'#2
 require 'lib/grit'
 
 def main
